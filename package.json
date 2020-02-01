@@ -36,7 +36,7 @@
         "normalize-url": "^1.5.2",
         "npm-name": "^3.0.0",
         "underscore.string": "^3.3.4",
-        "update-notifier": "^2.2.0",
+        "update-notifier": "^4.0.0",
         "username": "^3.0.0",
         "validate-npm-package-name": "^3.0.0",
         "yeoman-generator": "^2.0.1",
